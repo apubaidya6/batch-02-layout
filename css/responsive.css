@@ -174,11 +174,11 @@
 	}
 
 	.articles-img .country {
-		left: 315px;
+		left: 205px;
 	}
 
 	ul.social-followers li a {
-		margin: 0 29px;
+		margin: 0px 10px !important;
 	}
 
 	.popular-articles-hover-icon::before {
