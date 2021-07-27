@@ -1,0 +1,231 @@
+/* XL Device :1200px. */
+@media (min-width: 1450px) and (max-width: 1600px) {
+
+
+}
+
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+	
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+	.home-slider-item-2 {
+		height: 100%;
+	}
+
+	.tript-right-item-hover-icon::before {
+		width: 42%;
+	}
+
+	.tript-right-item-hover-icon i {
+		left: 21%;
+	}
+
+	.single-chack-2 {
+		height: 100%;
+	}
+
+	ul.social-followers li a span {
+		left: -4px;
+	}
+
+	.trending-box img {
+		height: 100px;
+	}
+
+	.popular-articles-hover-icon::before {
+		width: 50%;
+	}
+
+	.popular-articles-hover-icon i {
+		left: 24%;
+	}
+
+	.articles-img .country {
+		left: 160px;
+	}
+
+	.footer-blog {
+		height: 100%;
+	}
+
+	.all-photos a {
+		width: 18%;
+	}
+
+	a.ins {
+		margin-top: 60px !important;
+	}
+
+	.tript-trending-footer {
+		font-size: 10px;
+	}
+
+}
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .home-slider-item {
+		margin-bottom: 30px;
+	}
+	
+	.home-slider-item-2 {
+		height: 93%;
+	}
+
+	.tript-right-item-hover-icon::before {
+		width: 37%;
+	}
+
+	.tript-right-item-hover-icon i {
+		left: 19%;
+	}
+
+	.about-me-content {
+		text-align: center;
+	}
+
+	.weather {
+		text-align: center;
+	}
+
+	ul.social-followers li a {
+		margin: 0 40px;
+	}
+
+	.popular-articles-hover-icon::before {
+		width: 18.5%;
+	}
+
+	.popular-articles-hover-icon i {
+		left: 9%;
+	}
+
+	.banner.mb-30 {
+		text-align: center;
+	}
+
+	h4.footer-title {
+		font-size: 14px;
+	}
+
+	footer#footer .col-20:nth-child(5) {
+		display: none;
+	}
+	
+	footer#footer .col-20:nth-child(4) {
+		display: none;
+	}
+	
+	footer#footer .col-20 {
+		width: 33.33%;
+	}
+
+	.articles-img .country {
+		left: 200px;
+	}
+
+
+}
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+
+	.home-slider-item {
+		margin-bottom: 30px;
+	}
+
+	.trips-menu li a {
+		padding: 6px 5px;
+	}
+
+	.tript-trending {
+		margin-bottom: 30px;
+	}
+
+	.tript-right-item-hover-icon::before {
+		width: 24.5%;
+	}
+
+	.tript-right-item-hover-icon i {
+		left: 12%;
+	}
+
+	.all-photos a {
+		width: 30%;
+	}
+
+	.about-me-content {
+		text-align: center;
+	}
+
+	.weather {
+		text-align: center;
+	}
+
+	.single-chack h4 {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.articles-img .country {
+		left: 315px;
+	}
+
+	ul.social-followers li a {
+		margin: 0 29px;
+	}
+
+	.popular-articles-hover-icon::before {
+		width: 26.5%;
+	}
+
+	.popular-articles-hover-icon i {
+		left: 13%;
+	}
+
+	.banner.mb-30 {
+		text-align: center;
+	}
+
+	.footer-tags {
+		margin-bottom: 30px;
+	}
+	
+	.footer-post {
+		margin-bottom: 30px;
+	}
+
+	footer#footer .col-20:nth-child(5) {
+		display: none;
+	}
+	
+	footer#footer .col-20:nth-child(4) {
+		display: none;
+	}
+	
+	footer#footer .col-20 {
+		width: 33.33%;
+	}
+
+	header.main-menu {
+		padding-left: 30px;
+	}
+
+	header.main-menu .nav-item{
+		padding-top: 5px;
+	}
+	
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+	
+	
+}
